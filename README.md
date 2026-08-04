@@ -2,8 +2,6 @@
 
 Looma is an evidence-led platform for investigating textile certifications and manufacturers. It translates complex sustainability and labor standards into clear, decision-ready insights—showing not only what can be verified, but also what critical information is still missing.
 
-**[View the live experience](https://looma-textile-intelligence.megana1.chatgpt.site)**
-
 ## The problem
 
 Sourcing teams often receive certificates, audit reports, and sustainability claims without an easy way to understand their scope, credibility, or limitations. Standards measure different things, supplier information is fragmented, and missing evidence can be difficult to spot.
