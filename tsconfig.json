@@ -37,6 +37,8 @@
     "drizzle",
     "examples",
     "worker",
-    "liila-creator-analytics"
+    "liila-creator-analytics",
+    "vite.config.ts",
+    "drizzle.config.ts"
   ]
 }
